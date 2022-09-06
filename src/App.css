@@ -1,0 +1,8 @@
+.display{
+  display: inline-block;
+  justify-content: space-between;
+  padding: 25px;
+}
+.display li{
+  text-decoration: none;
+}
